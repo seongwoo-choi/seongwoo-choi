@@ -30,7 +30,12 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </div>
 
-  
-  
+
+## <div align="center">✨ Stats ✨</div>
+<div align="center"> 
+
+[![seongwoo-choi github stats](https://github-readme-stats.vercel.app/api?username=seongwoo-choi)](https://github.com/seongwoo-choi/github-readme-stats)
+
+</div>
   
 
