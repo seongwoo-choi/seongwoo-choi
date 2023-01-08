@@ -4,7 +4,7 @@
 - Myongji University Information Communication Tech (2016 ~ 2021)
 
 ### 🌱 I’m currently learning ...
-- Backend (Spring, Nest, Express)
+- Golang
 - Kubernetes
 - AWS
 
