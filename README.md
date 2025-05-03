@@ -2,6 +2,7 @@
 
 ### 🐋 I’m currently working on
 - Myongji University Information Communication Tech (2016 ~ 2021)
+- Musinsa SRE (2022 ~ )
 
 ### 🌱 I’m currently learning ...
 - Golang
